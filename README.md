@@ -1,2 +1,1 @@
-# MLB_Draft_Spreadsheet_2025
-Building a spreadsheet using statcast data to give myself quick and easy access to player data during my fantasy baseball draft with a 60 second pick timer.
+My fantasy baseball league uses a 60 second timer during our draft. I use statcast data quite a bit when deciding which players to select, but the loading times in the baseball savant website are unpredictable, making it unreliable under a time crunch. To help with this, I created a spreadsheet with traditional and statcast data from the previous 3 years to give myself easy access to all the data I might need during my draft. I also included the average draft position of each player so I could order the players by how early they are likely to be taken.
