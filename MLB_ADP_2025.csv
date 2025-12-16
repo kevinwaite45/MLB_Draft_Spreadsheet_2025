@@ -1,0 +1,501 @@
+ADP,player_name,Team,Pos
+1,"Ohtani, Shohei",LAD,"DH, SP"
+2,"Judge, Aaron",NYY,"OF, DH"
+3,"Soto, Juan",NYM,OF
+4,"Witt Jr., Bobby",KC,SS
+5,"Ramirez, Jose",Cle,"3B, DH"
+6,"Betts, Mookie",LAD,"SS, OF"
+7,"Tucker, Kyle",ChC,OF
+8,"Skubal, Tarik",Det,SP
+9,"Skenes, Paul",Pit,SP
+10,"Guerrero Jr., Vladimir",Tor,"1B, DH"
+11,"Alvarez, Yordan",Hou,"OF, DH"
+12,"Henderson, Gunnar",Bal,SS
+13,"Wheeler, Zack",Phi,SP
+14,"Carroll, Corbin",Ari,OF
+15,"Lindor, Francisco",NYM,SS
+16,"Freeman, Freddie",LAD,1B
+17,"Tatis Jr., Fernando",SD,OF
+18,"Gilbert, Logan",Sea,SP
+19,"Marte, Ketel",Ari,"2B, DH"
+20,"Cole, Gerrit",NYY,SP
+21,"Cease, Dylan",SD,SP
+22,"Burnes, Corbin",Ari,SP
+23,"Crochet, Garrett",Bos,SP
+24,"Contreras, William",Mil,"C, DH"
+25,"Harper, Bryce",Phi,1B
+26,"Devers, Rafael",Bos,3B
+27,"Sale, Chris",Atl,SP
+28,"Rutschman, Adley",Bal,"C, DH"
+29,"Ragans, Cole",KC,SP
+30,"Machado, Manny",SD,"3B, DH"
+31,"Acuna Jr., Ronald",Atl,OF
+32,"De La Cruz, Elly",Cin,SS
+33,"Santander, Anthony",Tor,"OF, DH"
+34,"Clase, Emmanuel",Cle,RP
+35,"Semien, Marcus",Tex,2B
+36,"Seager, Corey",Tex,SS
+37,"Chourio, Jackson",Mil,OF
+38,"Snell, Blake",LAD,SP
+39,"Bregman, Alex",Bos,3B
+40,"Merrill, Jackson",SD,OF
+41,"Turner, Trea",Phi,SS
+42,"Williams, Devin",NYY,RP
+43,"Olson, Matt",Atl,1B
+44,"Arraez, Luis",SD,"1B, 2B, DH"
+45,"Kirby, George",Sea,SP
+46,"Altuve, Jose",Hou,2B
+47,"Valdez, Framber",Hou,SP
+48,"Kwan, Steven",Cle,OF
+49,"Rodriguez, Julio",Sea,OF
+50,"Duran, Jarren",Bos,OF
+51,"Hader, Josh",Hou,RP
+52,"Alonso, Pete",NYM,1B
+53,"Nola, Aaron",Phi,SP
+54,"Yamamoto, Yoshinobu",LAD,SP
+55,"Lopez, Pablo",Min,SP
+56,"Riley, Austin",Atl,3B
+57,"Diaz, Edwin",NYM,RP
+58,"Smith, Will",LAD,C
+59,"Fried, Max",NYY,SP
+60,"Helsley, Ryan",StL,RP
+61,"Miller, Mason",Ath,RP
+62,"Albies, Ozzie",Atl,2B
+63,"Castillo, Luis",Sea,SP
+64,"King, Michael",SD,SP
+65,"Diaz, Yainer",Hou,"C, DH"
+66,"Naylor, Josh",Ari,1B
+67,"Imanaga, Shota",ChC,SP
+68,"Iglesias, Raisel",Atl,RP
+69,"Gray, Sonny",StL,SP
+70,"Webb, Logan",SF,SP
+71,"Langford, Wyatt",Tex,"OF, DH"
+72,"Schwarber, Kyle",Phi,DH
+73,"Glasnow, Tyler",LAD,SP
+74,"Bellinger, Cody",NYY,"OF, 1B, DH"
+75,"Chisholm Jr., Jazz",NYY,"OF, 3B"
+76,"Perez, Salvador",KC,"C, 1B, DH"
+77,"Walker, Ryan",SF,RP
+78,"Arenado, Nolan",StL,3B
+79,"Ryan, Joe",Min,SP
+80,"Harris II, Michael",Atl,OF
+81,"Ozuna, Marcell",Atl,DH
+82,"Miller, Bryce",Sea,SP
+83,"Raleigh, Cal",Sea,C
+84,"Bohm, Alec",Phi,3B
+85,"Ober, Bailey",Min,SP
+86,"Adames, Willy",SF,SS
+87,"Happ, Ian",ChC,OF
+88,"Bautista, Felix",Bal,RP
+89,"Gallen, Zac",Ari,SP
+90,"Walker, Christian",Hou,1B
+91,"Donovan, Brendan",StL,"OF, 2B"
+92,"Reynolds, Bryan",Pit,"OF, DH"
+93,"Pasquantino, Vinnie",KC,"1B, DH"
+94,"Peralta, Freddy",Mil,SP
+95,"Steele, Justin",ChC,SP
+96,"Suarez, Robert",SD,RP
+97,"Hoerner, Nico",ChC,2B
+98,"Greene, Hunter",Cin,SP
+99,"Munoz, Andres",Sea,RP
+100,"Bibee, Tanner",Cle,SP
+101,"Steer, Spencer",Cin,"OF, 1B"
+102,"Hernandez, Teoscar",LAD,OF
+103,"deGrom, Jacob",Tex,SP
+104,"Rooker Jr., Brent",Ath,DH
+105,"Profar, Jurickson",Atl,OF
+106,"Gausman, Kevin",Tor,SP
+107,"Paredes, Isaac",Hou,3B
+108,"Duran, Jhoan",Min,RP
+109,"Trout, Mike",LAA,OF
+110,"Abrams, CJ",Wsh,SS
+111,"Sasaki, Roki",LAD,SP
+112,"Suzuki, Seiya",ChC,"OF, DH"
+113,"Yelich, Christian",Mil,"OF, DH"
+114,"Bogaerts, Xander",SD,"2B, SS"
+115,"Brown, Hunter",Hou,SP
+116,"Flaherty, Jack",Det,SP
+117,"Nimmo, Brandon",NYM,OF
+118,"Hoffman, Jeff",Tor,RP
+119,"Caminero, Junior",TB,3B
+120,"Schwellenbach, Spencer",Atl,SP
+121,"Rodriguez, Grayson",Bal,SP
+122,"Contreras, Willson",StL,"C, DH"
+123,"Chapman, Matt",SF,3B
+124,"Greene, Riley",Det,"OF, DH"
+125,"Scott, Tanner",LAD,RP
+126,"Torres, Gleyber",Det,2B
+127,"Cruz, Oneil",Pit,"SS, OF"
+128,"Rodon, Carlos",NYY,SP
+129,"Ruiz, Keibert",Wsh,C
+130,"Wood, James",Wsh,OF
+131,"Pfaadt, Brandon",Ari,SP
+132,"Kikuchi, Yusei",LAA,SP
+133,"Lee, Jung Hoo",SF,OF
+134,"Arozarena, Randy",Sea,OF
+135,"Senga, Kodai",NYM,SP
+136,"Pressly, Ryan",ChC,RP
+137,"Diaz, Alexis",Cin,RP
+138,"Butler, Lawrence",Ath,OF
+139,"Cronenworth, Jake",SD,"1B, 2B"
+140,"Jones, Jared",Pit,SP
+141,"Garcia, Adolis",Tex,"OF, DH"
+142,"Diaz, Yandy",TB,"1B, DH"
+143,"Strider, Spencer",Atl,SP
+144,"Stott, Bryson",Phi,2B
+145,"Correa, Carlos",Min,SS
+146,"Burleson, Alec",StL,"OF, DH"
+147,"Springer III, George",Tor,"OF, DH"
+148,"Lugo, Seth",KC,SP
+149,"Francis, Bowden",Tor,"RP, SP"
+150,"Bednar, David",Pit,RP
+151,"Gurriel Jr., Lourdes",Ari,OF
+152,"Winn, Masyn",StL,SS
+153,"Garcia, Maikel",KC,"3B, 2B"
+154,"Houck, Tanner",Bos,SP
+155,"McLain, Matt",Cin,"SS, 2B"
+156,"Gimenez, Andres",Tor,2B
+157,"Stephenson, Tyler",Cin,C
+158,"Sanchez, Cristopher",Phi,SP
+159,"Gil, Luis",NYY,SP
+160,"Castellanos, Nick",Phi,OF
+161,"India, Jonathan",KC,2B
+162,"Burger, Jake",Tex,"1B, 3B, DH"
+163,"Martinez, Justin",Ari,RP
+164,"Edman, Tommy",LAD,"OF, SS"
+165,"Pena, Jeremy",Hou,SS
+166,"Bichette, Bo",Tor,SS
+167,"Keller, Mitch",Pit,SP
+168,"Westburg, Jordan",Bal,"3B, 2B"
+169,"Lopez, Reynaldo",Atl,SP
+170,"Ward, Taylor",LAA,OF
+171,"Berrios, Jose",Tor,SP
+172,"Moreno, Gabriel",Ari,C
+173,"Langeliers, Shea",Ath,C
+174,"Manaea, Sean",NYM,SP
+175,"McClanahan, Shane",TB,SP
+176,"Casas, Triston",Bos,1B
+177,"Alcantara, Sandy",Mia,SP
+178,"Crews, Dylan",Wsh,OF
+179,"Realmuto, J.T.",Phi,C
+180,"Garcia, Luis",Wsh,2B
+181,"Blanco, Ronel",Hou,SP
+182,"Muncy, Max",LAD,3B
+183,"Doyle, Brenton",Col,OF
+184,"Bradley, Taj",TB,SP
+185,"Holliday, Jackson",Bal,2B
+186,"Kirk, Alejandro",Tor,C
+187,"Pivetta, Nick",SD,SP
+188,"Vientos, Mark",NYM,3B
+189,"Lewis, Royce",Min,"3B, DH"
+190,"Woo, Bryan",Sea,SP
+191,"Alvarez, Francisco",NYM,C
+192,"Swanson, Dansby",ChC,SS
+193,"Castro, Willi",Min,"SS, 2B, 3B, OF"
+194,"Turang, Brice",Mil,2B
+195,"Goldschmidt, Paul",NYY,1B
+196,"Megill, Trevor",Mil,RP
+197,"Horwitz, Spencer",Pit,"1B, 2B"
+198,"Bleday, JJ",Ath,OF
+199,"Volpe, Anthony",NYY,SS
+200,"Robert Jr., Luis",ChW,OF
+201,"Shaw, Matt",ChC,"3B, 2B, SS"
+202,"Fairbanks, Pete",TB,RP
+203,"Tovar, Ezequiel",Col,SS
+204,"Erceg, Lucas",KC,RP
+205,"Weaver, Luke",NYY,RP
+206,"O'Hoppe, Logan",LAA,C
+207,"Mullins II, Cedric",Bal,OF
+208,"Eflin, Zach",Bal,SP
+209,"Suarez, Eugenio",Ari,3B
+210,"Dominguez, Jasson",NYY,OF
+211,"Martinez, Nick",Cin,"RP, SP"
+212,"Adam, Jason",SD,RP
+213,"Lowe, Nathaniel",Wsh,1B
+214,"Cortes Jr., Nestor",Mil,SP
+215,"Yates, Kirby",LAD,RP
+216,"Wells, Austin",NYY,C
+217,"Suarez, Ranger",Phi,SP
+218,"Eovaldi, Nathan",Tex,SP
+219,"Chapman, Aroldis",Bos,RP
+220,"Jansen, Kenley",LAA,RP
+221,"Gore, MacKenzie",Wsh,SP
+222,"Jax, Griffin",Min,RP
+223,"Puk, A.J.",Ari,RP
+224,"Woodruff, Brandon",Mil,SP
+225,"Morel, Christopher",TB,"3B, 2B, DH"
+226,"Carpenter, Kerry",Det,"OF, DH"
+227,"Abreu, Bryan",Hou,RP
+228,"Smith, Cade",Cle,RP
+229,"Crow-Armstrong, Pete",ChC,OF
+230,"Edwards, Xavier",Mia,SS
+231,"Singer, Brady",Cin,SP
+232,"Lowe, Josh",TB,OF
+233,"Bassitt, Chris",Tor,SP
+234,"O'Neill, Tyler",Bal,OF
+235,"Buehler, Walker",Bos,SP
+236,"Nootbaar, Lars",StL,OF
+237,"Foley, Jason",Det,RP
+238,"Santana, Carlos",Cle,1B
+239,"Soler, Jorge",LAA,"OF, DH"
+240,"Murphy, Sean",Atl,C
+241,"Cowser, Colton",Bal,OF
+242,"Jeffers, Ryan",Min,"C, DH"
+243,"Scherzer, Max",Tor,SP
+244,"McCarthy, Jake",Ari,OF
+245,"Baz, Shane",TB,SP
+246,"Busch, Michael",ChC,1B
+247,"Severino, Luis",Ath,SP
+248,"Rafaela, Ceddanne",Bos,"OF, SS"
+249,"Norby, Connor",Mia,"3B, 2B"
+250,"Wacha, Michael",KC,SP
+251,"Estevez, Carlos",KC,RP
+252,"Darvish, Yu",SD,SP
+253,"Bell, Josh",Wsh,"1B, DH"
+254,"Romano, Jordan",Phi,RP
+255,"Pepiot, Ryan",TB,SP
+256,"Moore, Dylan",Sea,"SS, 2B, 3B, OF"
+257,"Rengifo, Luis",LAA,"3B, 2B"
+258,"Holmes, Clay",NYM,RP
+259,"Thomas, Lane",Cle,OF
+260,"Ramos, Heliot",SF,OF
+261,"Buxton, Byron",Min,OF
+262,"Verlander, Justin",SF,SP
+263,"Ray, Robbie",SF,SP
+264,"Jung, Josh",Tex,3B
+265,"Caballero, Jose",TB,"SS, 2B, 3B"
+266,"Kelly, Merrill",Ari,SP
+267,"Hendriks, Liam",Bos,RP
+268,"Fedde, Erick",StL,SP
+269,"Keith, Colt",Det,2B
+270,"Verdugo, Alex",FA,OF
+271,"Neto, Zach",LAA,SS
+272,"Mountcastle, Ryan",Bal,1B
+273,"Finnegan, Kyle",Wsh,RP
+274,"Cano, Yennier",Bal,RP
+275,"Arrighetti, Spencer",Hou,SP
+276,"Hoskins, Rhys",Mil,"1B, DH"
+277,"Jobe, Jackson",Det,SP
+278,"Heim, Jonah",Tex,C
+279,"Schmidt, Clarke",NYY,SP
+280,"Luzardo, Jesus",Phi,SP
+281,"Campbell, Kristian",Bos,"2B, SS, OF"
+282,"Holton, Tyler",Det,"RP, SP"
+283,"Frelick, Sal",Mil,OF
+284,"Kim, Hyeseong",LAD,2B
+285,"Gaddis, Hunter",Cle,RP
+286,"Ortiz, Joey",Mil,3B
+287,"Joyce, Ben",LAA,RP
+288,"Hodge, Porter",ChC,RP
+289,"Benintendi, Andrew",ChW,OF
+290,"Stanton, Giancarlo",NYY,DH
+291,"Meadows, Parker",Det,OF
+292,"Strahm, Matt",Phi,RP
+293,"Schanuel, Nolan",LAA,1B
+294,"Lodolo, Nick",Cin,SP
+295,"Bello, Brayan",Bos,SP
+296,"Friedl Jr., TJ",Cin,OF
+297,"Kerkering, Orion",Phi,RP
+298,"Wong, Connor",Bos,C
+299,"Pederson, Joc",Tex,DH
+300,"Morton, Charlie",Bal,SP
+301,"Candelario, Jeimer",Cin,"3B, 1B, DH"
+302,"McNeil, Jeff",NYM,2B
+303,"Treinen, Blake",LAD,RP
+304,"Robles, Victor",Sea,OF
+305,"Bailey, Patrick",SF,C
+306,"Lowe, Brandon",TB,"2B, DH"
+307,"Olson, Reese",Det,SP
+308,"Rasmussen, Drew",TB,"RP, SP"
+309,"Anthony, Roman",Bos,OF
+310,"Dubon, Mauricio",Hou,"OF, 1B, 2B"
+311,"Vaughn, Andrew",ChW,"1B, DH"
+312,"Herrera, Ivan",StL,C
+313,"Story, Trevor",Bos,SS
+314,"Toglia, Michael",Col,1B
+315,"Holmes, Grant",Atl,"RP, SP"
+316,"Carter, Evan",Tex,OF
+317,"Kopech, Michael",LAD,RP
+318,"Kershaw, Clayton",LAD,SP
+319,"Bieber, Shane",Cle,SP
+320,"Hernandez, Enrique",LAD,3B
+321,"Lux, Gavin",Cin,2B
+322,"Rizzo, Anthony",NYY,1B
+323,"Doval, Camilo",SF,RP
+324,"Abreu, Wilyer",Bos,OF
+325,"Vierling, Matt",Det,"OF, 3B"
+326,"Estrada, Jeremiah",SD,RP
+327,"Sugano, Tomoyuki",Bal,SP
+328,"Gorman, Nolan",StL,2B
+329,"Winker, Jesse",NYM,"OF, DH"
+330,"Rocker, Kumar",Tex,SP
+331,"Green, Chad",Tor,RP
+332,"Kiner-Falefa, Isiah",Pit,"2B, 3B, SS"
+333,"McLean, Nolan",NYM,"DH, SP"
+334,"Bryant, Kris",Col,"OF, 1B"
+335,"Gelof, Zack",Ath,2B
+336,"Turner, Justin",ChC,"1B, DH"
+337,"McMahon, Ryan",Col,3B
+338,"Crawford, J.P.",Sea,SS
+339,"Acuna, Luisangel",NYM,SS
+340,"Baez, Javier",Det,SS
+341,"Kim, Ha-Seong",TB,SS
+342,"Marsh, Brandon",Phi,OF
+343,"Stroman, Marcus",NYY,SP
+344,"Bazzana, Travis",Cle,2B
+345,"Pallante, Andre",StL,"SP, RP"
+346,"Walker, Jordan",StL,OF
+347,"Rogers, Tyler",SF,RP
+348,"Encarnacion-Strand, Christian",Cin,1B
+349,"Yoshida, Masataka",Bos,DH
+350,"May, Dustin",LAD,SP
+351,"O'Hearn, Ryan",Bal,"1B, DH"
+352,"Cabrera, Oswaldo",NYY,3B
+353,"Naylor, Bo",Cle,C
+354,"Ortiz, Luis",Cle,"RP, SP"
+355,"Vesia, Alex",LAD,RP
+356,"LeMahieu, DJ",NYY,"1B, 3B"
+357,"Conforto, Michael",LAD,"OF, DH"
+358,"Taylor, Chris",LAD,"OF, 2B, 3B"
+359,"Yastrzemski, Mike",SF,OF
+360,"Siri, Jose",NYM,OF
+361,"Rogers, Jake",Det,C
+362,"Boyd, Matthew",ChC,SP
+363,"Estrada, Thairo",Col,2B
+364,"Alvarado, Jose",Phi,RP
+365,"Williams, Gavin",Cle,SP
+366,"Gonsolin, Tony",LAD,SP
+367,"Torkelson, Spencer",Det,1B
+368,"Amaya, Miguel",ChC,C
+369,"Franco, Wander",TB,SS
+370,"Civale, Aaron",Mil,SP
+371,"d'Arnaud, Travis",LAA,C
+372,"Arcia, Orlando",Atl,SS
+373,"Caglianone, Jac",KC,1B
+374,"Hicks, Jordan",SF,"SP, RP"
+375,"Miranda, Jose",Min,"3B, DH"
+376,"Jung, Jace",Det,3B
+377,"Chandler, Bubba",Pit,SP
+378,"Peterson, David",NYM,SP
+379,"Simpson, Chandler",TB,OF
+380,"Sosa, Edmundo",Phi,"SS, 2B, 3B"
+381,"Baty, Brett",NYM,3B
+382,"Cruz, Fernando",NYY,RP
+383,"Waldron, Matt",SD,SP
+384,"Iglesias, Jose",NYM,"2B, 3B"
+385,"Birdsong, Hayden",SF,SP
+386,"Mayo, Coby",Bal,3B
+387,"Sanchez, Jesus",Mia,OF
+388,"Miller, Bobby",LAD,SP
+389,"Wilson Jr., Jacob",Ath,SS
+390,"Baldwin, Drake",Atl,C
+391,"Hayes, Ke'Bryan",Pit,3B
+392,"Hill, Tim",NYY,RP
+393,"Gonzales, Nick",Pit,2B
+394,"Mitchell, Garrett",Mil,OF
+395,"Basallo, Sam",Bal,"C, 1B"
+396,"Scott II, Victor",StL,OF
+397,"Harrison, Kyle",SF,SP
+398,"Banda, Anthony",LAD,RP
+399,"Barnes, Austin",LAD,C
+400,"Romero, JoJo",StL,RP
+401,"Giolito, Lucas",Bos,SP
+402,"Maeda, Kenta",Det,"SP, RP"
+403,"Enns, Dietrich",Det,RP
+404,"Vogelbach, Daniel",Tor,DH
+405,"Corbin, Patrick",Wsh,SP
+406,"Noel, Jhonkensy",Cle,OF
+407,"De La Cruz, Bryan",Atl,"OF, DH"
+408,"Hope, Zyhir",LAD,OF
+409,"Lee, Korey",ChW,C
+410,"Marquez, German",Col,SP
+411,"Kepler, Max",Phi,OF
+412,"Wade Jr., LaMonte",SF,1B
+413,"Leiter, Jack",Tex,"SP, RP"
+414,"Fermin, Jose",LAA,RP
+415,"Cannon, Jonathan",ChW,SP
+416,"Clark, Max",Det,OF
+417,"English, Tristin",Ari,"3B, OF"
+418,"Crawford, Kutter",Bos,SP
+419,"Goodman, Hunter",Col,"OF, C"
+420,"Muncy, Max",Ath,"SS, 2B"
+421,"Schneider, Davis",Tor,"OF, 2B"
+422,"Bradford, Cody",Tex,SP
+423,"Guerrero, Luis",Hou,2B
+424,"Flores, Wilmer",SF,1B
+425,"Kjerstad, Heston",Bal,OF
+426,"Sykora, Travis",Wsh,SP
+427,"Merrifield, Whit",Atl,"2B, OF"
+428,"Abreu, Jose",Hou,1B
+429,"Loperfido, Joey",Tor,OF
+430,"Springs, Jeffrey",Ath,SP
+431,"Painter, Andrew",Phi,SP
+432,"Whitlock, Garrett",Bos,SP
+433,"Stubbs, Garrett",Phi,C
+434,"Matsui, Yuki",SD,RP
+435,"Burke, Blake",Mil,1B
+436,"Polanco, Jorge",Sea,2B
+437,"Burns, Chase",Cin,SP
+438,"Brecht, Brody",Col,SP
+439,"Gomber, Austin",Col,SP
+440,"Joe, Connor",SD,"1B, OF"
+441,"Kelly, Joe",LAD,RP
+442,"Higashioka, Kyle",Tex,C
+443,"Stanek, Ryne",NYM,RP
+444,"Marte, Starling",NYM,OF
+445,"Tromp, Chadwick",Atl,C
+446,"Grisham, Trent",NYY,OF
+447,"Maldonado, Martin",SD,C
+448,"Kimbrel, Craig",Bal,RP
+449,"Suwinski, Jack",Pit,OF
+450,"Mayer, Marcelo",Bos,SS
+451,"Stallings, Jacob",Col,C
+452,"Perez, Eury",Mia,SP
+453,"Hays, Austin",Cin,OF
+454,"Eldridge, Bryce",SF,1B
+455,"Sanchez, Gary",Bal,"C, DH"
+456,"Mayfield, Kash",SD,SP
+457,"Outman, James",LAD,OF
+458,"Murphy, Patrick",Mia,RP
+459,"Leiter Jr., Mark",NYY,RP
+460,"Capra, Vinny",Mil,"SS, 2B, 3B"
+461,"Caminiti, Cam",Atl,SP
+462,"Scott, Tayler",Hou,RP
+463,"Mahle, Tyler",Tex,SP
+464,"Wong, Kolten",Bal,2B
+465,"Rodriguez, Julio",Det,C
+466,"Kelly, Carson",ChC,C
+467,"Fitzgerald, Tyler",SF,SS
+468,"Brito, Juan",Cle,"2B, 1B, 3B"
+469,"Ramirez, Agustin",Mia,"C, 1B"
+470,"Solano, Donovan",Sea,"3B, 1B, DH"
+471,"Cousins, Jake",NYY,RP
+472,"Walker, Taijuan",Phi,SP
+473,"Rojas, Miguel",LAD,SS
+474,"Doughty, Braylon",Cle,C
+475,"Rosario, Eddie",LAD,OF
+476,"Kelenic, Jarred",Atl,OF
+477,"McKinstry, Zach",Det,"SS, 3B"
+478,"Sterling, Levi",Pit,SP
+479,"Garver, Mitch",Sea,"C, DH"
+480,"Lomavita, Caleb",Wsh,C
+481,"Keaschall, Luke",Min,2B
+482,"Haase, Eric",Mil,C
+483,"Wisely, Brett",SF,"2B, SS"
+484,"Urias, Ramon",Bal,3B
+485,"Caldwell, Slade",Ari,OF
+486,"Fry, David",Cle,"C, 1B, DH"
+487,"Tellez, Rowdy",Sea,1B
+488,"Neris, Hector",Atl,RP
+489,"Waldschmidt, Ryan",Ari,OF
+490,"Perdomo, Geraldo",Ari,SS
+491,"Dix, JD",Ari,SS
+492,"Moore, Christian",LAA,2B
+493,"Lawlar, Jordan",Ari,"SS, 3B"
+494,"Mize, Casey",Det,SP
+495,"Frazier, Adam",Pit,"2B, OF"
+496,"Cijntje, Jurrangelo",Sea,SP
+497,"DeBarge, Kyle",Min,"2B, SS"
+498,"Hummel, Cooper",Hou,"OF, 1B"
+499,"Varsho, Daulton",Tor,OF
+500,"Smith, Josh",Tex,"3B, SS"
